@@ -1,10 +1,15 @@
-### Olá Alexandre Cotta por aqui :D 👋
+# Olá Alexandre Cotta por aqui 👋
 
-Formado em Tecnologia em Banco de Dados e atualmente cursando Ciências de Dados. Analisar e compreender o mundo é minha motivação. 
+## 🚀 Sobre Mim
 
-- O que me move, a curiosidade.
-- O que me faz superar os desafios, o foco e a determinação.
-- O que me tranquiliza, trilhas, aventuras e sons da natureza.
+Sou um investigador por natureza, fascinado por entender os motivos por trás das coisas, como os sistemas funcionam e a mentalidade por trás de grandes ações planejadas. Minha paixão por análise de falhas e comportamento — inspirada pelo estudo de investigações complexas e aviação — é o que me move na Segurança da Informação.
+
+Atualmente atuo com **Pentest Web/Mobile**, o que me deu uma visão clara de como os atacantes pensam e exploram vulnerabilidades. Minhas experiências profissionais consolidaram uma  bagagem em **Análise de Dados** (atuando em segmentação e previsão de demandas de e-commerce e no projeto Acadêmico/Voluntario no MercadoSolidário). 
+
+**🎯 Meu Objetivo:**
+
+Estou migrando para a área de **Defesa (SOC / Blue Team)** para direcionar meu perfil investigativo e analítico na caça a ameaças (*Threat Hunting*). Atualmente, estou aplicando minha experiência com dados na análise de logs em laboratórios simulados, unindo o conhecimento de como um sistema é atacado à habilidade de decifrar padrões anômalos para proteger ambientes críticos.
+
 
 #### Atualmente mais focado em:
 
