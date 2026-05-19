@@ -11,13 +11,31 @@ Atualmente atuo com **Pentest Web/Mobile**, o que me deu uma visão clara de com
 Estou migrando para a área de **Defesa (SOC / Blue Team)** para direcionar meu perfil investigativo e analítico na caça a ameaças (*Threat Hunting*). Atualmente, estou aplicando minha experiência com dados na análise de logs em laboratórios simulados, unindo o conhecimento de como um sistema é atacado à habilidade de decifrar padrões anômalos para proteger ambientes críticos.
 
 
-#### Atualmente mais focado em:
+## 🛠️ Habilidades Técnicas (Tech Stack)
 
-<div style="display:inline">
+### 🛡️ Defesa e Operações de Segurança (Foco SOC)
+* **SIEM / Análise de Logs:** Wazuh *(Foco em laboratórios)*
+* **Metodologias e Frameworks:** MITRE ATT&CK, Cyber Kill Chain, NIST SP 800-61 (Resposta a Incidentes)
+* **Investigação & Forense:** Análise de tráfego de rede (Wireshark), análise de cabeçalhos de e-mail (Phishing)
+
+### ⚔️ Segurança Ofensiva (Bagagem Pentest)
+* **Segurança Web:** OWASP Top 10, Burp Suite, Nmap, Gobuster, SQLmap
+* **Análise de Vulnerabilidades:** Exploração manual e identificação de falhas de lógica de aplicação
+
+### 📊 Ciência e Análise de Dados
+* **Manipulação & Estatística:** Python (Pandas, NumPy, Skitlearn), Linguagem SQL
+* **Conceitos Aplicados:** Detecção de anomalias, tratamento de grandes volumes de dados (Mapeamento de Outliers), modelagem preditiva
+
+### ⚙️ Infraestrutura e Automação
+* **Sistemas Operacionais:** Linux (CLI), Windows
+* **Automação:** Criação de scripts em Python e Bash para otimização de rotinas
+
+
+<!--div style="display:inline">
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />
-</div>
+</div-->
 
 #### Projetos desenvolvidos:
 - <a href="https://github.com/alexcotta/MercadoSolidario"> Projeto Mercado Solidário </a>
