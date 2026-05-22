@@ -23,7 +23,7 @@ Estou migrando para a área de **Defesa (SOC / Blue Team)** para direcionar meu 
 * **Análise de Vulnerabilidades:** Exploração manual e identificação de falhas de lógica de aplicação
 
 ### 📊 Ciência e Análise de Dados
-* **Manipulação & Estatística:** Python (Pandas, NumPy, Skitlearn), Linguagem SQL
+* **Manipulação & Estatística:** Python (Pandas, NumPy, scikit-learn), Linguagem SQL
 * **Conceitos Aplicados:** Detecção de anomalias, tratamento de grandes volumes de dados (Mapeamento de Outliers), modelagem preditiva
 
 ### ⚙️ Infraestrutura e Automação
